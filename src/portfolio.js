@@ -22,7 +22,7 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://media-exp1.licdn.com/dms/image/C5603AQGHNf_PCuNxvg/profile-displayphoto-shrink_400_400/0/1647608834007?e=1652918400&v=beta&t=z8O2yeTjTeIUm1tqSP0YhZNXUrZ46kuJ0qPvIEYxnII",
+    "https://media-exp1.licdn.com/dms/image/C5603AQFCup1bAQRqhQ/profile-displayphoto-shrink_400_400/0/1647671830085?e=2147483647&v=beta&t=MDxEPhUvT_VmwnVUrHqw4JBMwjoOrzvop3CmcAITshU",
   p1: "Hey, My name is Pavan Puli. I have completed my Graduation  from  CMR Engineering college ,Medchal.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like playing cricket,Football and Exploring new places.",
